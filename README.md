@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## My name is Ilan and I promise I'll make a better introduction.
-
+My name is **Ilan Araujo** and I promise I'll make a better introduction.
+<br><br>
 While I don't do this here's a list of links if you want to know more about me and what I sutdy and what I work on:
 
 <a href="https://www.linkedin.com/in/ilanaraujo/">Linked In</a>
